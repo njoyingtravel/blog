@@ -12,7 +12,7 @@ show_hero: true
 menu:
   - title: Blog
     url: /
-  - title: O mnie
+  - title: O nas
     url: /about
   - title: Kontakt
     url: /contact
