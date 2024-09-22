@@ -30,13 +30,14 @@
           <svg><use xlink:href="#icon-linkedin"></use></svg>
         </a>
       {% endif %}
+      {% if site.tiktok_username %}
+        <a href="https://tiktok.com/@{{ site.tiktok_username }}" title="TikTok">
+          <svg><use xlink:href="#icon-tiktok"></use></svg>
+        </a>
+      {% endif %}
     </p>
 
     {% include links.html %}
-
-    <p>
-      <span>Jekflix</span> was made with <svg class="love"><use xlink:href="#icon-heart"></use></svg> by <a href="https://rossener.com" target="_blank" class="creator">Thiago Rossener</a>
-    </p>
 </footer>
 
 {% assign social_urls = '' %}
@@ -57,6 +58,9 @@
 {% endif %}
 {% if site.linkedin_username %}
     {% assign social_urls = social_urls | append: '"https://www.linkedin.com/in/' | append: site.linkedin_username | append: '",' %}
+{% endif %}
+{% if site.tiktok_username %}
+    {% assign social_urls = social_urls | append: '"https://tiktok.com/@' | append: site.tiktok_username | append: '",' %}
 {% endif %}
 
 <script type="application/ld+json">

@@ -28,6 +28,7 @@ formspree_form_id: formspree_form_id
 # Social Media Settings
 # Remove the item if you don't need it
 instagram_username: njoyingtravel
+tiktok_username: njoyingtravel
 
 
 # Posts Settings
@@ -54,7 +55,7 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
+show_get_theme_btn: false
 use_logo: false
 
 # Content paginator
