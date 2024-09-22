@@ -5,8 +5,8 @@
     <description>Tak sobie kicam</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 22 Sep 2024 17:14:54 +0200</pubDate>
-    <lastBuildDate>Sun, 22 Sep 2024 17:14:54 +0200</lastBuildDate>
+    <pubDate>Sun, 22 Sep 2024 18:08:03 +0200</pubDate>
+    <lastBuildDate>Sun, 22 Sep 2024 18:08:03 +0200</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -53,7 +53,7 @@
     
       <item>
         <title>Japonia 🇯🇵</title>
-        <description>&lt;p style=&quot;text-align: justify&quot;&gt; Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est, qui dolorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi...</description>
+        <description>&lt;p&gt;&lt;a href=&quot;#tokyo&quot; style=&quot;float: left;&quot;&gt;Tokyo &lt;/a&gt; &lt;a href=&quot;#kyoto&quot; style=&quot;float: left;&quot;&gt;Kyoto &lt;/a&gt; &lt;a href=&quot;#osaka&quot; style=&quot;float: left;&quot;&gt;Osaka&lt;/a&gt; &lt;a href=&quot;#tipy&quot; style=&quot;float: right;&quot;&gt;Tipy&lt;/a&gt;&lt;/p&gt; &lt;div style=&quot;clear: both;&quot;&gt;&lt;/div&gt; &lt;!--[Tokyo](#tokyo) [Kyoto](#kyoto) [Osaka](#osaka) &lt;p style=&quot;text-align: right&quot;&gt; &lt;a href=&quot;#tipy&quot;&gt;Tipy&lt;/a&gt; &lt;/p&gt;--&gt; &lt;p style=&quot;text-align: justify&quot;&gt; Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos, qui ratione voluptatem sequi nesciunt, neque porro quisquam est, qui dolorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed...</description>
         <pubDate>Thu, 22 Nov 2018 13:26:40 +0100</pubDate>
         <link>/why-books-should-be-your-priority/</link>
         <guid isPermaLink="true">/why-books-should-be-your-priority/</guid>
